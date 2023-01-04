@@ -1,6 +1,6 @@
-Nama                : Dema Puspita Kiranti
-Asal Kampus         : Universitas Teknologi Digital Indonesia
-Jenjang/Prodi       : D3/Sistem Informasi Akuntansi
-Semester            : 5 (menuju 6)
-Asal                : Karawang, Jawa Barat
+Nama                : Dema Puspita Kiranti <br>
+Asal Kampus         : Universitas Teknologi Digital Indonesia <br>
+Jenjang/Prodi       : D3/Sistem Informasi Akuntansi <br>
+Semester            : 5 (menuju 6) <br>
+Asal                : Karawang, Jawa Barat <br>
 Domisili saat ini   : Bantul, Yogyakarta (Kost)
