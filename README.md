@@ -31,7 +31,7 @@ Domisili saat ini   : Bantul, Yogyakarta (Kost) <br>
 
 5.	Selanjutnya, kunjungi link yang telah berisi projek berikut melalui akun github yang Anda punya https://github.com/demapuspita/dema-crud-project.
 
-6.	Klik pada tombol bertuliskan Code seperti pada gambar di bawah ini. Lalu salin link yang terdapat pada kotak tersebut.
+6.	Klik pada tombol bertuliskan Code seperti pada gambar di bawah ini. Lalu salin link yang terdapat pada kotak tersebut. <br>
 ![Pict 4](/images/Picture4.png "Terminal Git")
 
 7.	Paste link tersebut pada terminal Git seperti pada gambar di bawah ini dengan menambahkan perintah git clone di depannya untuk melakukan cloning repository. Klik enter untuk melanjutkan proses cloning. Tunggu hingga proses selesai.
