@@ -78,7 +78,7 @@ Domisili saat ini   : Bantul, Yogyakarta (Kost) <br>
 Pada contoh ini saya mengurutkan data berdasarkan program studi. Data akan diurutkan secara ascending berdasarkan program studi. <br>
 ![Pict 17](/images/Picture17.png "urut data")
 
-10.	Anda juga dapat mencari secara spesifik sebuah data berdasarkan nomor urut, nama, program studi, semester, kelas, ataupun angkatan. Pada contoh ini saya akan menampilkan data untuk mahasiswa yang berada di angkatan 20. <br>
+10.	Anda juga dapat mencari secara spesifik sebuah data berdasarkan nomor urut, nama, program studi, semester, kelas, ataupun angkatan. Pada contoh ini saya akan menampilkan data untuk mahasiswa yang berada di angkatan 20. <br>2
 ![Pict 18](/images/Picture18.png "mencari data")
 
 11.	Jika sudah selesai menggunakannya, Anda dapat keluar dari platform dengan klik tombol Keluar yang terletak di bawah logo.
